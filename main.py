@@ -63,3 +63,6 @@ while not gameover:
         if computer_score == 3 or your_score == 3:
             print ("GAME OVER")
             gameover = True
+
+
+## I'd like to go back and figure out how to maximize efficiency on this.
